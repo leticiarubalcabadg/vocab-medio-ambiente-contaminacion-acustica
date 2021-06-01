@@ -12,12 +12,13 @@
 3. [DIAGRAMA CONCEPTUAL](#id3)
 4. [DIAGRAMA ENTIDAD RELACIÓN DE LAS TABLAS](#id40)
 5. [TABLAS](#id4)  
-    - [DEUDA_C_INF_MOROSIDAD_TRI](#id5)  
-    - [DEUDA_C_INF_PMP_MES](#id6)  
-    - [DEUDA_C_INF_PMP_MES_GLOBAL](#id7)  
-    - [DEUDA_C_PUBLICA_INTERVAL](#id8) 
-    - [DEUDA_ORGANIZATION](#id9) 
- 
+    - [CONT_ACUS_ESTACION_MEDIDA](#id5)  
+    - [CONT_ACUS_OBSERVACION](#id6)  
+    - [CONT_ACUS_PROPIEDAD](#id7)  
+6. [TAXONOMÍAS SKOS](#id111)
+    - [TIPO-EMISOR-PREDOMINANTE](#id12)
+    - [TIPO-EQUIPAMIENTO](#id13)
+    - [TIPO-INTERVALO-REFERENCIA](#id14)
 
 
 &nbsp;
@@ -59,46 +60,47 @@ El diagrama muestra las clases y propiedades del vocabulario que representa la D
 ## DIAGRAMA ENTIDAD RELACIÓN DE LAS TABLAS <a name="id40"></a>
 
 &nbsp;
-![Diagrama Entidad Relación](deuda-comercial.png)
+![Diagrama Entidad Relación](contaminacionAcustica.png)
 &nbsp;
-
-
-
-
 
 
 ## TABLAS <a name="id4"></a>    
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 &nbsp;
-### DEUDA_C_INF_MOROSIDAD_TRI <a name="id5"></a>
+### CONT_ACUS_ESTACION_MEDIDA <a name="id5"></a>
 &nbsp;
 
 
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 &nbsp;
-### DEUDA_C_INF_PMP_MES <a name="id6"></a>
+### CONT_ACUS_OBSERVACION <a name="id6"></a>
 &nbsp;
 
 
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 &nbsp;
-### DEUDA_C_INF_PMP_MES_GLOBAL <a name="id7"></a>
+### CONT_ACUS_PROPIEDAD <a name="id7"></a>
 &nbsp;
+
+
+## TAXONOMÍAS SKOS <a name="id111"></a>
+
+&nbsp;
+### TIPO-EMISOR-PREDOMINANTE <a name="id12"></a>
+
+[comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
+&nbsp;
+### TIPO-EQUIPAMIENTO <a name="id13"></a>
+&nbsp;
+
 
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 &nbsp;
-### DEUDA_C_PUBLICA_INTERVAL <a name="id8"></a>
-&nbsp;
-
-
-
-[comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
-&nbsp;
-### DEUDA_ORGANIZATION <a name="id9"></a>
+### TIPO-INTERVALO-REFERENCIA <a name="id14"></a>
 &nbsp;
 
 
